@@ -1,4 +1,4 @@
-# 😎 Welcome to my GitHub profile 😎
+# 😎 Welcome to my GitHub profile! 😎
 ##  João Marcos Ribeirete Garbelini
 
 📚💻 I'm a computer science student and developer trainee, currently junior test analyst at vrglass. 
