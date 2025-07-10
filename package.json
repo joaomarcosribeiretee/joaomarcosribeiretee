@@ -1,9 +1,24 @@
 {
+  "name": "portfolio-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "autoprefixer": "^10.4.21",
     "framer-motion": "^12.23.3",
     "lucide-react": "^0.525.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7",
+    "@vitejs/plugin-react": "^4.3.4"
   }
 }
