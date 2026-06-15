@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Marcos Ribeirete
+# João Marcos Ribeirete Garbelini
 
 **Full Stack Developer · AI Builder · QA Engineer @ Lucy**
 
